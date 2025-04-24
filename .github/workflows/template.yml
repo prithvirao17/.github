@@ -1,0 +1,5 @@
+name: template
+on:
+  workflow_call
+
+
